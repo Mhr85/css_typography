@@ -1,0 +1,16 @@
+body  {
+  font-family: 'Lucida Sans',  sans-serif;
+}
+
+
+.bold {
+  font-weight: bold;
+}
+
+.size {
+  font-size: 24px;
+}
+
+.height {
+  line-height: 50px;
+}
